@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "../bin",
+    "module": "umd",
+    "target": "es5",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+    "removeComments": false,
+    "declaration": true,
+    "moduleResolution": "Node"
+  }
+}
